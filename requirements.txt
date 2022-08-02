@@ -1,0 +1,6 @@
+simplejson
+flask
+requests
+selenium
+jieba
+pymysql
