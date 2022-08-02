@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 @app.route('/') 
 def init():
-    return render_template('index2.html')
+    return render_template('index.html')
 
 @app.route('/time') 
 def get_time():
